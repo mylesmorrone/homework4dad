@@ -1,5 +1,8 @@
 # mysite
-This is a version of the offical Djang tutorial application configured for deployment into a production environment on Heroku.
+This is a version of the offical Django tutorial application configured for deployment into a production environment on Heroku.
+
+
+
 # Getting started
 Start your DAD virtual environment.
 ```

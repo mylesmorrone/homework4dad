@@ -96,6 +96,10 @@ USE_L10N = True
 
 USE_TZ = True
 
+#Templates directory
+# https://docs.djangoproject.com/en/1.7/intro/tutorial02/#customizing-your-project-s-templates
+TEMPLATE_DIRS = [os.path.join(BASE_DIR, 'templates')]
+
 # Static asset configuration for static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.7/howto/static-files/
 STATIC_ROOT = 'staticfiles'
