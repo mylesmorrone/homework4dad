@@ -1,8 +1,8 @@
 # mysite
 This is a version of the offical Django tutorial application configured for deployment into a production environment on Heroku.
 
-Starting part 4 of the official Django tutorial
-https://docs.djangoproject.com/en/1.7/intro/tutorial04/
+Done with part 4 of the official Django tutorial up to the section titled 
+"Use generic views: Less code is better" at https://docs.djangoproject.com/en/1.7/intro/tutorial04/#use-generic-views-less-code-is-better
 
 # Getting started
 Start your DAD virtual environment.
