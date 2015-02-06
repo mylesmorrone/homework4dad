@@ -31,3 +31,8 @@ Then set the DATABASE_URL environment variable. Finally, create the initial data
 ```
 python manage.py syncdb
 ```
+
+# Misc
+The generic views are included in a separate branch named generic_views.
+
+You can see the deployed version at http://usma-it394-polls.herokuapp.com/polls/
